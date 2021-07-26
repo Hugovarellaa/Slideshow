@@ -1,5 +1,5 @@
 
-<h1 align="center">Tabuada Web</h1>
+<h1 align="center">Slideshow</h1>
 
 <br>
 <br>
